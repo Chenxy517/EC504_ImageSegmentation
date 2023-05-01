@@ -18,6 +18,6 @@ Shu Yang &nbsp;
 
 Zhenghao Sun &nbsp;
 
-Xingyu Chen &nbsp;
+Xingyu Chen &nbsp;(chxy517@bu.edu)
 
 Xingjian Zhang &nbsp;
