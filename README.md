@@ -16,8 +16,8 @@ Our project aims at trying to use Graph Cut alogorithm to solve this problem, an
 ## Authors
 Shu Yang &nbsp;
 
-Zhenghao Sun &nbsp;
+Zhenghao Sun &nbsp; szh1007@bu.edu
 
-Xingyu Chen &nbsp;(chxy517@bu.edu)
+Xingyu Chen &nbsp;
 
 Xingjian Zhang &nbsp;
