@@ -11,6 +11,10 @@ Our project aims at trying to use Graph Cut alogorithm to solve this problem, an
 
 ## Getting Started
 
+Please run min_cut_8neighbor.m. The program automatically reads the saved image data and runs to get a graph variable. If you want to change the graph used for analysis, remove the read img.mat section and modify the imread section.
+
+Next, run the FordFulkerson.m function to get the cut using the Ford Fulkerson method. It takes a long time to run.
+
 ## Help
 
 ## Authors
