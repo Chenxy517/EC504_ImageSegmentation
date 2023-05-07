@@ -14,10 +14,10 @@ Our project aims at trying to use Graph Cut alogorithm to solve this problem, an
 ## Help
 
 ## Authors
-Shu Yang &nbsp;
+Shu Yang &nbsp; conlany@bu.edu
 
 Zhenghao Sun &nbsp; szh1007@bu.edu
 
 Xingyu Chen &nbsp; chxy517@bu.edu
 
-Xingjian Zhang &nbsp;
+Xingjian Zhang &nbsp; zhangzxj@bu.edu
