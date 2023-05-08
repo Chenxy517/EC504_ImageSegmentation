@@ -17,6 +17,12 @@ Next, run the FordFulkerson.m function to get the cut using the Ford Fulkerson m
 
 ## Help
 
+If you encounter any issues or need further assistance, please:
+
+Check the GitHub Issues page to see if someone has already reported the problem or if there is a solution available.
+If your issue is not listed, create a new issue, providing a detailed description of the problem, steps to reproduce it, and any error messages or screenshots that might be helpful.
+You can also contact the project maintainers via email or other communication channels provided in the repository for further assistance.
+
 ## Authors
 Shu Yang &nbsp; conlany@bu.edu
 
